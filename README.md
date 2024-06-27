@@ -1,34 +1,4 @@
-<!-- ASCII Art Banner -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Awakened4-red?style=for-the-badge" alt="Awakened4">
-</div>
-
-<!-- Introduction -->
-## Hi there, I'm kernel_wizard! 🔥
-
-<!-- Technologies -->
-## 💻 Technologies & Tools:
-
-- C++
-- C
-- KM
-- Assembly
-
-<!-- About Me -->
-## 🚀 About Me:
-
-- 🔭 Currently honing my skills in cyber security, malware analysis, and software development.
-- 🌱 Experienced in various programming languages including C++, C ,KM, and Assembly.
-- 👯 Open to collaborating on challenging and innovative projects, particularly in fields like malware analysis, cheating development, cyber security, backend, and frontend development.
-- 💬 Feel free to reach out to me for anything related to coding, cyber security, or software development.
-- 📫 Connect with me on [Discord](https://discordapp.com/users/933121434191028287)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've been exploring coding techniques and languages for 3 years, always seeking the thrill of discovery.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=5000&color=F72454&center=true&vCenter=true&random=true&width=435&lines=I+love+computer+science" alt="Typing SVG" /></a>
 
 
-<!-- GitHub Stats -->
-## 📈 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Awakened4&show_icons=true&theme=dark" alt="Awakened4's GitHub Stats">
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=427DF7&center=true&vCenter=true&random=true&width=435&lines=msg+db+'Hello%2C+World'%2C+0;mov+eax%2C+msg;mov+eax%2C+60;+xor+edi%2C+edi;syscall" alt="Typing SVG" /></a>
